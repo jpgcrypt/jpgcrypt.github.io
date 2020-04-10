@@ -1,0 +1,15 @@
+{
+    "background_color": "#3789ff",
+    "description": "Encrypt an image into mosaics, and decrypt.",
+    "display": "fullscreen",
+    "icons": [
+    {
+      "src": "icon-256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    }
+    ],
+    "name": "jpgcrypt",
+    "short_name": "jpgcrypt",
+    "start_url": "/index.html#pwa"
+}
